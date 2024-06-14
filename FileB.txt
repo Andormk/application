@@ -1,1 +1,2 @@
 This is file B
+New changes ib file B
